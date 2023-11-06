@@ -6,7 +6,7 @@ You can watch a video of the introduction to the Modern Robotics I course at the
 
 Download the full syllabus of the course including grading criteria at the link below:
 
-[Modern_Robotics_I_Syllabus.pdf](https://github.com/madibabaiasl/modern-robotics-I-course/files/12882480/Modern_Robotics_I_Syllabus.pdf)
+[Modern_Robotics_I_Syllabus.pdf](https://github.com/madibabaiasl/modern-robotics-I-course/files/13273527/Modern_Robotics_I_Syllabus.pdf)
 
 ## Course Description
 
