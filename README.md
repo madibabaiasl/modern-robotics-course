@@ -17,7 +17,9 @@ The Czech playwright Karel Capek is credited with coining the word "robot" in hi
 - Robotics, Vision and Control: Fundamental Algorithms in Python, Peter Corke, 2023, Springer Nature
 - A mathematical introduction to robotic manipulation, Murray, Li and Sastry, 1994, CRC press
 
-Note that the material that I will teach is a combination of many sources (some are not listed above and some are developed by myself) and I will give the required text to you. The books above can be used as a reference. 
+Note that the material that I will teach is a combination of many sources (some are not listed above and some are developed by myself) and I will give the required text to you. The books above can be used as a reference. Start exploring the course by going to the wiki pages for this course:
+
+https://github.com/madibabaiasl/modern-robotics-course/wiki
 
 ### Software Packages and programming languages:
 Robot Operating System (ROS), MoveIt, RViz, Gazebo, Python, MATLAB, RoboDK, Linux (Ubuntu)
