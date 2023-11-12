@@ -1,6 +1,6 @@
-# Modern Robotics I - Arm Type Manipulators 
+# Modern Robotics
 
-You can watch a video of the introduction to the Modern Robotics I course at the link below:  
+You can watch a video of the introduction to the Modern Robotics course at the link below:  
 
 - <a href="https://youtu.be/MANNYzmCndY">Introduction to the Course Video</a>
 
