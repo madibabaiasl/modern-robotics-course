@@ -1,9 +1,5 @@
 # Modern Robotics
 
-You can watch a video of the introduction to the Modern Robotics course at the link below:  
-
-- <a href="https://youtu.be/MANNYzmCndY">Introduction to the Course Video</a>
-
 ## Course Description
 
 The Czech playwright Karel Capek is credited with coining the word "robot" in his 1920 play, R.U.R. (Rossum's Universal Robots), but the concept of robots as machines that can sense, process, and act has been around for centuries. For example, the ancient Greeks created stories about automatons, which were self-moving machines that could perform tasks. The Unimate was the first industrial robotic arm that was used for welding, painting, and assembly. Since then, robots have been developed for a wide range of other applications, including warehousing & logistics, manufacturing, healthcare, agriculture, construction, cleaning, and even entertainment. Although the field of robotics is still under development (it is an active research area), the basic principles of robot design (modeling, perception, planning, and control) are well understood. In Modern Robotics I, we will use both theory and practice to learn these basics specifically for arm-type manipulators. You will have the opportunity to work with a real robotic arm that is controlled by the Robot Operating System (ROS) to learn about these topics through hands-on experience.
